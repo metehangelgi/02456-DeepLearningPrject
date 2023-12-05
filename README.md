@@ -5,7 +5,8 @@ NEURAL NETWORKS
 
 This project is a 02456 Deep Learning Course Final Project
 
-### ABSTRACT
+### ABSTRACT
+
 X-ray imaging widespread used technique for medical and
 interdisciplinary research fields. Increasing number of re-
 searches in this field brings some additional requirements and
